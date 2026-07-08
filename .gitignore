@@ -1,0 +1,5 @@
+.DS_Store
+*.bak-*
+dist/
+*.app/
+actions/*/ulanzi-action.json

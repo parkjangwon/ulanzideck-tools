@@ -1,0 +1,45 @@
+{
+  "Action": "com.ulanzi.ulanzideck.multiactions.routine",
+  "ActionID": "e46d6a71-4864-4762-ae92-2d8e7f8b7f96",
+  "ActionParam": {
+    "Actions": [
+      {
+        "Action": "com.ulanzi.ulanzideck.system.text",
+        "ActionID": "fd031711-226d-4063-baa6-ca9641422929",
+        "ActionParam": {
+          "Enter": true,
+          "Text": "mo clean"
+        },
+        "LinkedTitle": true,
+        "Name": "텍스트",
+        "Plugin": {
+          "Name": "시스템",
+          "UUID": "com.ulanzi.deck.system",
+          "Version": "1.0"
+        },
+        "State": 0,
+        "ViewParam": [
+          {
+            "Icon": "__HOME__/Library/Application Support/Ulanzi/UlanziDeck/System/Plugins/com.ulanzi.deck.system/Images/btn_text.png",
+            "IconRel": ""
+          }
+        ]
+      }
+    ]
+  },
+  "LinkedTitle": true,
+  "Name": "다중 작업",
+  "Plugin": {
+    "Name": "다중 작업",
+    "UUID": "com.ulanzi.deck.multiaction",
+    "Version": "1.0"
+  },
+  "State": 0,
+  "ViewParam": [
+    {
+      "Icon": "__HOME__/Library/Application Support/Ulanzi/UlanziDeck/System/Plugins/com.ulanzi.deck.multiaction/Images/btn_multiAction.png",
+      "IconRel": "",
+      "Text": "mo clean"
+    }
+  ]
+}

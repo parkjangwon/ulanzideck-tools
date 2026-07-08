@@ -1,0 +1,43 @@
+{
+  "Action": "com.ulanzi.ulanzideck.multiactions.routine",
+  "ActionParam": {
+    "Actions": [
+      {
+        "Action": "com.ulanzi.ulanzideck.system.open",
+        "ActionParam": {
+          "Path": "/Applications/UlanziActions/ObsidianNewNote.app"
+        },
+        "LinkedTitle": true,
+        "Name": "열기",
+        "Plugin": {
+          "Name": "시스템",
+          "UUID": "com.ulanzi.deck.system",
+          "Version": "1.0"
+        },
+        "State": 0,
+        "ViewParam": [
+          {
+            "Icon": "__HOME__/Library/Application Support/Ulanzi/UlanziDeck/System/Plugins/com.ulanzi.deck.system/Images/btn_open.png",
+            "IconRel": "",
+            "Text": "Obsidian New Note"
+          }
+        ]
+      }
+    ]
+  },
+  "LinkedTitle": true,
+  "Name": "다중 작업",
+  "Plugin": {
+    "Name": "다중 작업",
+    "UUID": "com.ulanzi.deck.multiaction",
+    "Version": "1.0"
+  },
+  "State": 0,
+  "ViewParam": [
+    {
+      "Icon": "__HOME__/Library/Application Support/Ulanzi/UlanziDeck/System/Plugins/com.ulanzi.deck.multiaction/Images/btn_multiAction.png",
+      "IconRel": "",
+      "Text": "Obsidian 새 글"
+    }
+  ]
+}
