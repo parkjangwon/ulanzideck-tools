@@ -9,9 +9,6 @@ Ulanzi Studio GUI 안에서만 작업을 만들면 다른 맥북으로 옮기거
 - `actions/obsidian-new-note`  
   `~/Documents/Space` Obsidian vault에 `무제.md`, `무제 1.md` 같은 새 노트를 만들고 Obsidian에서 연다.
 
-- `actions/mo-clean`  
-  현재 포커스된 입력 위치에 `mo clean`을 입력하고 Enter를 누른다.
-
 ## 설치
 
 ```sh
